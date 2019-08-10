@@ -1,5 +1,5 @@
 # CCCBiol3Labs
-This repository hosts the most current version of the Biol-3 lab manual used by Clovis Community College (in Clovis, CA, not NM). The 
+This repository hosts the most current version of the Biol-3 lab manual used by Clovis Community College (in Clovis, CA, not NM).
 
 ## For CCC Students and Faculty
 If you are a Clovis Community College student or biology instructor, you have probably been directed here to print yourself a copy of the lab book. Download the file titled "LabWorkbook_NoCover.pdf" and print it in grayscale, no color needed; it's 146 pages long. You can also download the one-page file "LabWorkbookCover_Color.pdf" and print it if you want a cover for your copy; this will look better in color, of course, but will still be readable if printed in grayscale.
